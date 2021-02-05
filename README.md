@@ -1,2 +1,2 @@
 # Simple-Todo-List
-css 연습
+jquery, css 연습
